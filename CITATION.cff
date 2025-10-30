@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Braulio Alejandro
+    family-names: Ibarra Salas
+    email: l22212387@tijuana.tecnm.mx
+    affiliation: Tecnm-ITT
+repository-code: 'https://github.com/BraulioIbarraSalas/Practica1MSF'
+keywords:
+  - Función de transferencia
+  - modelo de ecuaciones integro-diferenciales
+  - estabilidad y error en estado estacionario
+  - Análisis matemático
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-09'
