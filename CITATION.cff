@@ -12,10 +12,11 @@ authors:
     affiliation: Tecnm-ITT
 repository-code: 'https://github.com/BraulioIbarraSalas/Practica3MSF'
 keywords:
-  - Función de transferencia
-  - modelo de ecuaciones integro-diferenciales
-  - estabilidad y error en estado estacionario
-  - Análisis matemático
+  - Sistema musculoesqueletico
+  - Controlador PI
+  - Control
+  - Caso
+  - Propiedades mecánicas
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2025-10-09'
