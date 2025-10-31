@@ -2,7 +2,7 @@
 
 # Práctica: Sistema musculoesquelético
 
-## Información de la estudiante
+## Información del estudiante
 
 Ibarra Salas Braulio Alejandro \[22212387]; l222123897@tectijuana.edu.mx
 
